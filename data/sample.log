@@ -1,0 +1,9 @@
+2026-10-13 09:15:02 INFO [web] Server started on port 8080
+2026-10-13 09:16:10 ERROR [db] Connection timeout to 10.0.0.20
+2026-10-13 09:17:45 WARNING [disk] Volume /var at 85% capacity
+2026-10-13 09:18:03 ERROR [auth] Failed login for user admin from 203.0.113.9
+2026-10-13 09:18:05 ERROR [auth] Failed login for user root from 203.0.113.9
+2026-10-13 09:18:09 ERROR [auth] Failed login for user admin from 203.0.113.9
+2026-10-13 09:19:30 INFO [auth] Successful login for user amira from 10.0.0.5
+2026-10-13 09:21:12 ERROR [db] Connection timeout to 10.0.0.20
+this line is malformed
